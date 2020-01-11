@@ -25,7 +25,7 @@ export class GraphComponent implements OnInit, AfterViewInit {
 
   graph: ForceDirectedGraph;
 
-  private _options: { width, height } = { width: 800, height: 600 };
+  private _options: { width, height } = { width: 2000, height: 2000 };
 
   ngOnInit() {
     /** Receiving an initialized simulated graph from our custom d3 service */

@@ -1,8 +1,19 @@
 <svg #svg [attr.width]="_options.width" [attr.height]="_options.height">
   <g [zoomableOf]="svg">
     <g [linkVisual]="link" *ngFor="let link of links"></g>
-    <g [nodeVisual]="node" *ngFor="let node of nodes"
-       [draggableNode]="node"
-       [draggableInGraph]="graph"></g>
+    <g [nodeVisual]="node" *ngFor="let node of nodes"></g>
+<!--       [draggableNode]="node"-->
+<!--       [draggableInGraph]="graph"></g>-->\
+    <g fill="none" font-size="400" text-anchor="middle"  *ngFor="let node of nodes; let i=index" [attr.transform]="'translate(' + node.x + ',300)'">
+      <path class="domain" stroke="currentColor" stroke-width="10px" d="M0.5,6V0.5H3000.5V80"></path>
+      <g class="tick" opacity="1" *ngIf="i % 3 === 0">
+        <line stroke="currentColor" y2="6"></line>
+        <text fill="currentColor" y="9" dy="0.71em" transform="translate(0,200)">{{node.id}}</text>
+      </g>
+      <path class="domain" stroke="currentColor" stroke-width="10px" [attr.d]="'M0.5,6V0.5H0.5V' + (node.y - 100)"></path>
+      <g class="" opacity="1" >
+        <line stroke-dasharray="5, 5" stroke="currentColor" y2="6"></line>
+      </g>
+    </g>
   </g>
 </svg>

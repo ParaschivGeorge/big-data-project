@@ -9,6 +9,8 @@ import {NodeVisualComponent} from './d3/visuals/node/node.component';
 import {LinkVisualComponent} from './d3/visuals/link/link.component';
 import {ZoomableDirective} from './d3/directives/zoomable.directive';
 import {DraggableDirective} from './d3/directives/draggable.directive';
+import {HttpClientModule} from '@angular/common/http';
+import {MaterialModule} from './modules/material.module';
 
 @NgModule({
   declarations: [
@@ -23,7 +25,8 @@ import {DraggableDirective} from './d3/directives/draggable.directive';
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-
+    HttpClientModule,
+    MaterialModule
   ],
   providers: [],
   bootstrap: [AppComponent]

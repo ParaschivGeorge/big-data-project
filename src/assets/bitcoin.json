@@ -1,0 +1,801 @@
+[
+  {
+    "TRANSACTIONS": "2576",
+    "avg_fee": "0",
+    "block_timestamp_month": "2009-01-01",
+    "value": 0
+  },
+  {
+    "TRANSACTIONS": "3417",
+    "avg_fee": "58823.529411765",
+    "block_timestamp_month": "2009-02-01",
+    "value": 0
+  },
+  {
+    "TRANSACTIONS": "3487",
+    "avg_fee": "0",
+    "block_timestamp_month": "2009-03-01",
+    "value": 0
+  },
+  {
+    "TRANSACTIONS": "3459",
+    "avg_fee": "0",
+    "block_timestamp_month": "2009-04-01",
+    "value": 0
+  },
+  {
+    "TRANSACTIONS": "3401",
+    "avg_fee": "3822.405174949",
+    "block_timestamp_month": "2009-05-01",
+    "value": 0
+  },
+  {
+    "TRANSACTIONS": "2244",
+    "avg_fee": "0",
+    "block_timestamp_month": "2009-06-01",
+    "value": 0
+  },
+  {
+    "TRANSACTIONS": "1930",
+    "avg_fee": "7253.886010363",
+    "block_timestamp_month": "2009-07-01",
+    "value": 0
+  },
+  {
+    "TRANSACTIONS": "1570",
+    "avg_fee": "8280.25477707",
+    "block_timestamp_month": "2009-08-01",
+    "value": 0
+  },
+  {
+    "TRANSACTIONS": "2170",
+    "avg_fee": "5529.953917051",
+    "block_timestamp_month": "2009-09-01",
+    "value": 0
+  },
+  {
+    "TRANSACTIONS": "2139",
+    "avg_fee": "5610.098176718",
+    "block_timestamp_month": "2009-10-01",
+    "value": 0
+  },
+  {
+    "TRANSACTIONS": "2232",
+    "avg_fee": "0",
+    "block_timestamp_month": "2009-11-01",
+    "value": 0
+  },
+  {
+    "TRANSACTIONS": "4084",
+    "avg_fee": "5386.875612145",
+    "block_timestamp_month": "2009-12-01",
+    "value": 0
+  },
+  {
+    "TRANSACTIONS": "5056",
+    "avg_fee": "5142.405063291",
+    "block_timestamp_month": "2010-01-01",
+    "value": 0
+  },
+  {
+    "TRANSACTIONS": "5751",
+    "avg_fee": "7650.843331595",
+    "block_timestamp_month": "2010-02-01",
+    "value": 0
+  },
+  {
+    "TRANSACTIONS": "5398",
+    "avg_fee": "0",
+    "block_timestamp_month": "2010-03-01",
+    "value": 0.003
+  },
+  {
+    "TRANSACTIONS": "9631",
+    "avg_fee": "2699.615823902",
+    "block_timestamp_month": "2010-04-01",
+    "value": 0.003
+  },
+  {
+    "TRANSACTIONS": "6212",
+    "avg_fee": "166452.02833226",
+    "block_timestamp_month": "2010-05-01",
+    "value": 0.003
+  },
+  {
+    "TRANSACTIONS": "6678",
+    "avg_fee": "20515.124288709",
+    "block_timestamp_month": "2010-06-01",
+    "value": 0.08
+  },
+  {
+    "TRANSACTIONS": "26488",
+    "avg_fee": "35978.556327394",
+    "block_timestamp_month": "2010-07-01",
+    "value": 0.08
+  },
+  {
+    "TRANSACTIONS": "11968",
+    "avg_fee": "91661.107954545",
+    "block_timestamp_month": "2010-08-01",
+    "value": 0.08
+  },
+  {
+    "TRANSACTIONS": "13185",
+    "avg_fee": "15165.752142586",
+    "block_timestamp_month": "2010-09-01",
+    "value": 0.08
+  },
+  {
+    "TRANSACTIONS": "14386",
+    "avg_fee": "6974.167245934",
+    "block_timestamp_month": "2010-10-01",
+    "value": 0.08
+  },
+  {
+    "TRANSACTIONS": "63410",
+    "avg_fee": "8027.125059139",
+    "block_timestamp_month": "2010-11-01",
+    "value": 0.08
+  },
+  {
+    "TRANSACTIONS": "17142",
+    "avg_fee": "15906.320266013",
+    "block_timestamp_month": "2010-12-01",
+    "value": 0.08
+  },
+  {
+    "TRANSACTIONS": "34900",
+    "avg_fee": "24038.947363897",
+    "block_timestamp_month": "2011-01-01",
+    "value": 0.08
+  },
+  {
+    "TRANSACTIONS": "47168",
+    "avg_fee": "27692.091651119",
+    "block_timestamp_month": "2011-02-01",
+    "value": 1
+  },
+  {
+    "TRANSACTIONS": "83222",
+    "avg_fee": "157161.478335056",
+    "block_timestamp_month": "2011-03-01",
+    "value": 1
+  },
+  {
+    "TRANSACTIONS": "73936",
+    "avg_fee": "219846.740004869",
+    "block_timestamp_month": "2011-04-01",
+    "value": 1
+  },
+  {
+    "TRANSACTIONS": "136636",
+    "avg_fee": "304935.522666062",
+    "block_timestamp_month": "2011-05-01",
+    "value": 1
+  },
+  {
+    "TRANSACTIONS": "317482",
+    "avg_fee": "265687.881398001",
+    "block_timestamp_month": "2011-06-01",
+    "value": 31
+  },
+  {
+    "TRANSACTIONS": "267260",
+    "avg_fee": "142806.605578837",
+    "block_timestamp_month": "2011-07-01",
+    "value": 28
+  },
+  {
+    "TRANSACTIONS": "236300",
+    "avg_fee": "103524.340194668",
+    "block_timestamp_month": "2011-08-01",
+    "value": 25
+
+  },
+  {
+    "TRANSACTIONS": "194707",
+    "avg_fee": "83048.527726276",
+    "block_timestamp_month": "2011-09-01",
+    "value": 20
+  },
+  {
+    "TRANSACTIONS": "168707",
+    "avg_fee": "70836.565945693",
+    "block_timestamp_month": "2011-10-01",
+    "value": 15
+  },
+  {
+    "TRANSACTIONS": "169012",
+    "avg_fee": "58332.048156344",
+    "block_timestamp_month": "2011-11-01",
+    "value": 10
+  },
+  {
+    "TRANSACTIONS": "172435",
+    "avg_fee": "293139.943857106",
+    "block_timestamp_month": "2011-12-01",
+    "value": 2
+  },
+  {
+    "TRANSACTIONS": "199876",
+    "avg_fee": "290709.460505513",
+    "block_timestamp_month": "2012-01-01",
+    "value": 2
+  },
+  {
+    "TRANSACTIONS": "208362",
+    "avg_fee": "75807.556416237",
+    "block_timestamp_month": "2012-02-01",
+    "value": 2
+  },
+  {
+    "TRANSACTIONS": "203391",
+    "avg_fee": "76436.960371895",
+    "block_timestamp_month": "2012-03-01",
+    "value": 2
+  },
+  {
+    "TRANSACTIONS": "225197",
+    "avg_fee": "73296.803767368",
+    "block_timestamp_month": "2012-04-01",
+    "value": 4
+  },
+  {
+    "TRANSACTIONS": "660620",
+    "avg_fee": "70781.545885683",
+    "block_timestamp_month": "2012-05-01",
+    "value": 5
+  },
+  {
+    "TRANSACTIONS": "986424",
+    "avg_fee": "65520.338698166",
+    "block_timestamp_month": "2012-06-01",
+    "value": 5
+  },
+  {
+    "TRANSACTIONS": "899998",
+    "avg_fee": "65437.830495179",
+    "block_timestamp_month": "2012-07-01",
+    "value": 7
+  },
+  {
+    "TRANSACTIONS": "1097435",
+    "avg_fee": "70895.551694633",
+    "block_timestamp_month": "2012-08-01",
+    "value": 9.2
+  },
+  {
+    "TRANSACTIONS": "946045",
+    "avg_fee": "73225.742966772",
+    "block_timestamp_month": "2012-09-01",
+    "value": 9.8
+  },
+  {
+    "TRANSACTIONS": "935239",
+    "avg_fee": "86767.903042965",
+    "block_timestamp_month": "2012-10-01",
+    "value": 10
+  },
+  {
+    "TRANSACTIONS": "944891",
+    "avg_fee": "86631.472405812",
+    "block_timestamp_month": "2012-11-01",
+    "value": 12
+  },
+  {
+    "TRANSACTIONS": "1145572",
+    "avg_fee": "81551.652075993",
+    "block_timestamp_month": "2012-12-01",
+    "value": 13
+  },
+  {
+    "TRANSACTIONS": "1425459",
+    "avg_fee": "92473.430647251",
+    "block_timestamp_month": "2013-01-01",
+    "value": 87
+  },
+  {
+    "TRANSACTIONS": "1597550",
+    "avg_fee": "88645.57934024",
+    "block_timestamp_month": "2013-02-01",
+    "value": 170
+  },
+  {
+    "TRANSACTIONS": "1699308",
+    "avg_fee": "101247.084249",
+    "block_timestamp_month": "2013-03-01",
+    "value": 200
+  },
+  {
+    "TRANSACTIONS": "1707146",
+    "avg_fee": "93405.375983074",
+    "block_timestamp_month": "2013-04-01",
+    "value": 266
+  },
+  {
+    "TRANSACTIONS": "1746928",
+    "avg_fee": "90955.154801457",
+    "block_timestamp_month": "2013-05-01",
+    "value": 139
+  },
+  {
+    "TRANSACTIONS": "1405869",
+    "avg_fee": "88987.495443743",
+    "block_timestamp_month": "2013-06-01",
+    "value": 110
+  },
+  {
+    "TRANSACTIONS": "1206876",
+    "avg_fee": "76535.091909194",
+    "block_timestamp_month": "2013-07-01",
+    "value": 95
+  },
+  {
+    "TRANSACTIONS": "1714680",
+    "avg_fee": "79064.782277743",
+    "block_timestamp_month": "2013-08-01",
+    "value": 110
+  },
+  {
+    "TRANSACTIONS": "1597967",
+    "avg_fee": "83681.439069768",
+    "block_timestamp_month": "2013-09-01",
+    "value": 135
+  },
+  {
+    "TRANSACTIONS": "1645247",
+    "avg_fee": "66155.663948939",
+    "block_timestamp_month": "2013-10-01",
+    "value": 180
+  },
+  {
+    "TRANSACTIONS": "1961108",
+    "avg_fee": "60461.875544845",
+    "block_timestamp_month": "2013-11-01",
+    "value": 550
+  },
+  {
+    "TRANSACTIONS": "1935103",
+    "avg_fee": "25555.893733822",
+    "block_timestamp_month": "2013-12-01",
+    "value": 887
+  },
+  {
+    "TRANSACTIONS": "1817513",
+    "avg_fee": "24138.815725665",
+    "block_timestamp_month": "2014-01-01",
+    "value": 934
+  },
+  {
+    "TRANSACTIONS": "1846258",
+    "avg_fee": "21447.973154348",
+    "block_timestamp_month": "2014-02-01",
+    "value": 713
+  },
+  {
+    "TRANSACTIONS": "2102466",
+    "avg_fee": "19976.428087779",
+    "block_timestamp_month": "2014-03-01",
+    "value": 634
+  },
+  {
+    "TRANSACTIONS": "1890902",
+    "avg_fee": "21041.796460102",
+    "block_timestamp_month": "2014-04-01",
+    "value": 501
+  },
+  {
+    "TRANSACTIONS": "1993589",
+    "avg_fee": "18615.126313899",
+    "block_timestamp_month": "2014-05-01",
+    "value": 470
+  },
+  {
+    "TRANSACTIONS": "1817173",
+    "avg_fee": "18094.379804785",
+    "block_timestamp_month": "2014-06-01",
+    "value": 600
+  },
+  {
+    "TRANSACTIONS": "1932272",
+    "avg_fee": "17325.940868056",
+    "block_timestamp_month": "2014-07-01",
+    "value": 620
+  },
+  {
+    "TRANSACTIONS": "2112222",
+    "avg_fee": "17608.851345171",
+    "block_timestamp_month": "2014-08-01",
+    "value": 510
+  },
+  {
+    "TRANSACTIONS": "2144596",
+    "avg_fee": "18223.827187498",
+    "block_timestamp_month": "2014-09-01",
+    "value": 480
+  },
+  {
+    "TRANSACTIONS": "2390212",
+    "avg_fee": "16117.44325859",
+    "block_timestamp_month": "2014-10-01",
+    "value": 400
+  },
+  {
+    "TRANSACTIONS": "2512559",
+    "avg_fee": "15518.346338136",
+    "block_timestamp_month": "2014-11-01",
+    "value": 370
+  },
+  {
+    "TRANSACTIONS": "2703958",
+    "avg_fee": "15213.695115457",
+    "block_timestamp_month": "2014-12-01",
+    "value": 350
+  },
+  {
+    "TRANSACTIONS": "2890991",
+    "avg_fee": "15559.991012424",
+    "block_timestamp_month": "2015-01-01",
+    "value": 200
+  },
+  {
+    "TRANSACTIONS": "2661477",
+    "avg_fee": "14486.425991658",
+    "block_timestamp_month": "2015-02-01",
+    "value": 230
+  },
+  {
+    "TRANSACTIONS": "3050358",
+    "avg_fee": "14816.052791508",
+    "block_timestamp_month": "2015-03-01",
+    "value": 250
+  },
+  {
+    "TRANSACTIONS": "3195618",
+    "avg_fee": "17625.701476835",
+    "block_timestamp_month": "2015-04-01",
+    "value": 230
+  },
+  {
+    "TRANSACTIONS": "3208048",
+    "avg_fee": "15425.310815487",
+    "block_timestamp_month": "2015-05-01",
+    "value": 240
+  },
+  {
+    "TRANSACTIONS": "3510876",
+    "avg_fee": "16186.932100422",
+    "block_timestamp_month": "2015-06-01",
+    "value": 250
+  },
+  {
+    "TRANSACTIONS": "4313056",
+    "avg_fee": "22120.312880705",
+    "block_timestamp_month": "2015-07-01",
+    "value": 275
+  },
+  {
+    "TRANSACTIONS": "3569102",
+    "avg_fee": "21870.530802146",
+    "block_timestamp_month": "2015-08-01",
+    "value": 260
+  },
+  {
+    "TRANSACTIONS": "4148310",
+    "avg_fee": "19946.313472956",
+    "block_timestamp_month": "2015-09-01",
+    "value": 230
+  },
+  {
+    "TRANSACTIONS": "4268853",
+    "avg_fee": "19368.35829765",
+    "block_timestamp_month": "2015-10-01",
+    "value": 270
+  },
+  {
+    "TRANSACTIONS": "4759910",
+    "avg_fee": "17565.767380266",
+    "block_timestamp_month": "2015-11-01",
+    "value": 330
+  },
+  {
+    "TRANSACTIONS": "6097424",
+    "avg_fee": "17406.90911211",
+    "block_timestamp_month": "2015-12-01",
+    "value":430
+  },
+  {
+    "TRANSACTIONS": "5941625",
+    "avg_fee": "19355.615394105",
+    "block_timestamp_month": "2016-01-01",
+    "value": 400
+  },
+  {
+    "TRANSACTIONS": "6328098",
+    "avg_fee": "20016.28950247",
+    "block_timestamp_month": "2016-02-01",
+    "value": 380
+  },
+  {
+    "TRANSACTIONS": "6092921",
+    "avg_fee": "22995.599372944",
+    "block_timestamp_month": "2016-03-01",
+    "value": 414
+  },
+  {
+    "TRANSACTIONS": "6431712",
+    "avg_fee": "25095.998555128",
+    "block_timestamp_month": "2016-04-01",
+    "value": 420
+  },
+  {
+    "TRANSACTIONS": "6785775",
+    "avg_fee": "22845.650202077",
+    "block_timestamp_month": "2016-05-01",
+    "value": 440
+  },
+  {
+    "TRANSACTIONS": "6875990",
+    "avg_fee": "27225.275604095",
+    "block_timestamp_month": "2016-06-01",
+    "value": 690
+  },
+  {
+    "TRANSACTIONS": "6502334",
+    "avg_fee": "27909.147063039",
+    "block_timestamp_month": "2016-07-01",
+    "value": 660
+  },
+  {
+    "TRANSACTIONS": "6985382",
+    "avg_fee": "30501.586392126",
+    "block_timestamp_month": "2016-08-01",
+    "value": 666
+  },
+  {
+    "TRANSACTIONS": "6658263",
+    "avg_fee": "27105.63875278",
+    "block_timestamp_month": "2016-09-01",
+    "value": 610
+  },
+  {
+    "TRANSACTIONS": "7372569",
+    "avg_fee": "31193.579481047",
+    "block_timestamp_month": "2016-10-01",
+    "value": 620
+  },
+  {
+    "TRANSACTIONS": "8089573",
+    "avg_fee": "32691.819010225",
+    "block_timestamp_month": "2016-11-01",
+    "value": 700
+  },
+  {
+    "TRANSACTIONS": "8562381",
+    "avg_fee": "35117.216863277",
+    "block_timestamp_month": "2016-12-01",
+    "value": 900
+  },
+  {
+    "TRANSACTIONS": "8617360",
+    "avg_fee": "40643.975376565",
+    "block_timestamp_month": "2017-01-01",
+    "value": 1000
+  },
+  {
+    "TRANSACTIONS": "8277352",
+    "avg_fee": "54382.427276018",
+    "block_timestamp_month": "2017-02-01",
+    "value": 1150
+  },
+  {
+    "TRANSACTIONS": "8866167",
+    "avg_fee": "80043.147022496",
+    "block_timestamp_month": "2017-03-01",
+    "value": 1040
+  },
+  {
+    "TRANSACTIONS": "8351640",
+    "avg_fee": "76300.938375457",
+    "block_timestamp_month": "2017-04-01",
+    "value": 1300
+  },
+  {
+    "TRANSACTIONS": "10061195",
+    "avg_fee": "115945.008168612",
+    "block_timestamp_month": "2017-05-01",
+    "value": 2123
+  },
+  {
+    "TRANSACTIONS": "8071385",
+    "avg_fee": "155324.49016185",
+    "block_timestamp_month": "2017-06-01",
+    "value": 2707
+  },
+  {
+    "TRANSACTIONS": "7183759",
+    "avg_fee": "89668.906356129",
+    "block_timestamp_month": "2017-07-01",
+    "value": 2877
+  },
+  {
+    "TRANSACTIONS": "7765430",
+    "avg_fee": "108815.939955031",
+    "block_timestamp_month": "2017-08-01",
+    "value": 4125
+  },
+  {
+    "TRANSACTIONS": "7345502",
+    "avg_fee": "71652.138259169",
+    "block_timestamp_month": "2017-09-01",
+    "value": 3712
+  },
+  {
+    "TRANSACTIONS": "8987745",
+    "avg_fee": "60712.100001168",
+    "block_timestamp_month": "2017-10-01",
+    "value": 5747
+  },
+  {
+    "TRANSACTIONS": "9345256",
+    "avg_fee": "106624.570626102",
+    "block_timestamp_month": "2017-11-01",
+    "value": 8014
+  },
+  {
+    "TRANSACTIONS": "11190438",
+    "avg_fee": "170856.340844567",
+    "block_timestamp_month": "2017-12-01",
+    "value": 18000
+  },
+  {
+    "TRANSACTIONS": "8873120",
+    "avg_fee": "169605.207236237",
+    "block_timestamp_month": "2018-01-01",
+    "value": 12697
+  },
+  {
+    "TRANSACTIONS": "5356201",
+    "avg_fee": "46565.066630248",
+    "block_timestamp_month": "2018-02-01",
+    "value": 8945
+  },
+  {
+    "TRANSACTIONS": "5695168",
+    "avg_fee": "17867.636128206",
+    "block_timestamp_month": "2018-03-01",
+    "value": 8645
+  },
+  {
+    "TRANSACTIONS": "5753341",
+    "avg_fee": "17245.240882124",
+    "block_timestamp_month": "2018-04-01",
+    "value": 7456
+  },
+  {
+    "TRANSACTIONS": "6138957",
+    "avg_fee": "16444.92353245",
+    "block_timestamp_month": "2018-05-01",
+    "value": 8823
+  },
+  {
+    "TRANSACTIONS": "5752514",
+    "avg_fee": "18133.99484973",
+    "block_timestamp_month": "2018-06-01",
+    "value": 6634
+  },
+  {
+    "TRANSACTIONS": "6393536",
+    "avg_fee": "10468.580564182",
+    "block_timestamp_month": "2018-07-01",
+    "value": 6974
+  },
+  {
+    "TRANSACTIONS": "6730044",
+    "avg_fee": "10315.695524576",
+    "block_timestamp_month": "2018-08-01",
+    "value": 6458
+  },
+  {
+    "TRANSACTIONS": "6871444",
+    "avg_fee": "9006.210896283",
+    "block_timestamp_month": "2018-09-01",
+    "value": 8325
+  },
+  {
+    "TRANSACTIONS": "7580518",
+    "avg_fee": "7194.157543192",
+    "block_timestamp_month": "2018-10-01",
+    "value": 6457
+  },
+  {
+    "TRANSACTIONS": "8054376",
+    "avg_fee": "10822.955185479",
+    "block_timestamp_month": "2018-11-01",
+    "value": 5127
+  },
+  {
+    "TRANSACTIONS": "8196417",
+    "avg_fee": "8533.717100655",
+    "block_timestamp_month": "2018-12-01",
+    "value": 4089
+  },
+  {
+    "TRANSACTIONS": "9222178",
+    "avg_fee": "6881.531582886",
+    "block_timestamp_month": "2019-01-01",
+    "value": 3976
+  },
+  {
+    "TRANSACTIONS": "9269096",
+    "avg_fee": "8083.963841889",
+    "block_timestamp_month": "2019-02-01",
+    "value": 3685
+  },
+  {
+    "TRANSACTIONS": "9457625",
+    "avg_fee": "10447.098831683",
+    "block_timestamp_month": "2019-03-01",
+    "value": 4003
+  },
+  {
+    "TRANSACTIONS": "11003022",
+    "avg_fee": "24399.038311838",
+    "block_timestamp_month": "2019-04-01",
+    "value": 5287
+  },
+  {
+    "TRANSACTIONS": "11505497",
+    "avg_fee": "37696.748888292",
+    "block_timestamp_month": "2019-05-01",
+    "value": 7912
+  },
+  {
+    "TRANSACTIONS": "10486006",
+    "avg_fee": "35343.94740209",
+    "block_timestamp_month": "2019-06-01",
+    "value": 8102
+  },
+  {
+    "TRANSACTIONS": "10305251",
+    "avg_fee": "18874.386763699",
+    "block_timestamp_month": "2019-07-01",
+    "value": 11456
+  },
+  {
+    "TRANSACTIONS": "10169294",
+    "avg_fee": "13162.00117727",
+    "block_timestamp_month": "2019-08-01",
+    "value": 10327
+  },
+  {
+    "TRANSACTIONS": "9798992",
+    "avg_fee": "9439.366168377",
+    "block_timestamp_month": "2019-09-01",
+    "value": 9804
+  },
+  {
+    "TRANSACTIONS": "9892853",
+    "avg_fee": "9041.619542613",
+    "block_timestamp_month": "2019-10-01",
+    "value": 8390
+  },
+  {
+    "TRANSACTIONS": "9243776",
+    "avg_fee": "10292.614103263",
+    "block_timestamp_month": "2019-11-01",
+    "value": 7693
+  },
+  {
+    "TRANSACTIONS": "9430057",
+    "avg_fee": "6716.069567342",
+    "block_timestamp_month": "2019-12-01",
+    "value": 7404
+  },
+  {
+    "TRANSACTIONS": "1289909",
+    "avg_fee": "4553.534064806",
+    "block_timestamp_month": "2020-01-01",
+    "value": 7945
+  }
+]
