@@ -1,4 +1,4 @@
-<svg #svg [attr.width]="_options.width" [attr.height]="_options.height">
+<svg #svg [attr.width]="options.width" [attr.height]="options.height">
   <g [zoomableOf]="svg">
     <g [linkVisual]="link" *ngFor="let link of links"></g>
     <g [nodeVisual]="node" *ngFor="let node of nodes"></g>
@@ -17,3 +17,19 @@
     </g>
   </g>
 </svg>
+<div style="position: absolute; top: 10px; background: antiquewhite;">
+  <div style="display: flex; align-items: center">
+    <div id="transactions" style="display: inline-block; width: 50px; height: 50px; background: red; z-index: 999"></div>
+    <label for="transactions">Transactions</label>
+  </div>
+
+  <div style="display: flex; align-items: center">
+    <div id="fee" style="display: inline-block; width: 50px; height: 50px; background: lawngreen; z-index: 999"></div>
+    <label for="fee">Avg. fee</label>
+  </div>
+
+  <div style="display: flex; align-items: center">
+    <div id="value" style="display: inline-block; width: 50px; height: 50px; background: blue; z-index: 999"></div>
+    <label for="value">Value ($)</label>
+  </div>
+</div>

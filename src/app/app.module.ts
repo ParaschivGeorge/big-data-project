@@ -11,6 +11,8 @@ import {ZoomableDirective} from './d3/directives/zoomable.directive';
 import {DraggableDirective} from './d3/directives/draggable.directive';
 import {HttpClientModule} from '@angular/common/http';
 import {MaterialModule} from './modules/material.module';
+import { BitcoinComponent } from './compoents/bitcoin/bitcoin.component';
+import { LitecoinComponent } from './compoents/litecoin/litecoin.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +21,9 @@ import {MaterialModule} from './modules/material.module';
     NodeVisualComponent,
     LinkVisualComponent,
     ZoomableDirective,
-    DraggableDirective
+    DraggableDirective,
+    BitcoinComponent,
+    LitecoinComponent
   ],
   imports: [
     BrowserModule,

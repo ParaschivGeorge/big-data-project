@@ -1,0 +1,602 @@
+[
+  {
+    "transactions": "47029",
+    "fee_avg": "17487.234642455",
+    "block_timestamp_month": "2011-10-01",
+    "value": 0.03
+  },
+  {
+    "transactions": "119533",
+    "fee_avg": "2758482.593175106",
+    "block_timestamp_month": "2011-11-01",
+    "value": 0.03
+  },
+  {
+    "transactions": "43178",
+    "fee_avg": "1249903.938904072",
+    "block_timestamp_month": "2011-12-01",
+    "value": 0.03
+  },
+  {
+    "transactions": "32707",
+    "fee_avg": "1502080.36548751",
+    "block_timestamp_month": "2012-01-01",
+    "value": 0.03
+  },
+  {
+    "transactions": "39315",
+    "fee_avg": "2733308.16779855",
+    "block_timestamp_month": "2012-02-01",
+    "value": 0.03
+  },
+  {
+    "transactions": "36310",
+    "fee_avg": "1766157.883007436",
+    "block_timestamp_month": "2012-03-01",
+    "value": 0.03
+  },
+  {
+    "transactions": "31580",
+    "fee_avg": "1980070.153166561",
+    "block_timestamp_month": "2012-04-01",
+    "value": 0.04
+  },
+  {
+    "transactions": "35106",
+    "fee_avg": "2388364.857004501",
+    "block_timestamp_month": "2012-05-01",
+    "value": 0.04
+  },
+  {
+    "transactions": "36452",
+    "fee_avg": "3257795.930483924",
+    "block_timestamp_month": "2012-06-01",
+    "value": 0.04
+  },
+  {
+    "transactions": "48357",
+    "fee_avg": "4593665.740864818",
+    "block_timestamp_month": "2012-07-01",
+    "value": 0.05
+  },
+  {
+    "transactions": "45000",
+    "fee_avg": "4090522.147466667",
+    "block_timestamp_month": "2012-08-01",
+    "value": 0.05
+  },
+  {
+    "transactions": "66720",
+    "fee_avg": "6517188.973546163",
+    "block_timestamp_month": "2012-09-01",
+    "value": 0.05
+  },
+  {
+    "transactions": "58862",
+    "fee_avg": "5062358.615422514",
+    "block_timestamp_month": "2012-10-01",
+    "value": 0.06
+  },
+  {
+    "transactions": "50756",
+    "fee_avg": "3291022.904641816",
+    "block_timestamp_month": "2012-11-01",
+    "value": 0.06
+  },
+  {
+    "transactions": "44256",
+    "fee_avg": "3376841.635100325",
+    "block_timestamp_month": "2012-12-01",
+    "value": 0.06
+  },
+  {
+    "transactions": "46076",
+    "fee_avg": "3927511.430267384",
+    "block_timestamp_month": "2013-01-01",
+    "value": 0.1
+  },
+  {
+    "transactions": "57687",
+    "fee_avg": "5075030.711494791",
+    "block_timestamp_month": "2013-02-01",
+    "value": 0.7
+  },
+  {
+    "transactions": "130812",
+    "fee_avg": "5826963.75658961",
+    "block_timestamp_month": "2013-03-01",
+    "value": 2
+  },
+  {
+    "transactions": "285048",
+    "fee_avg": "6196357.02488002",
+    "block_timestamp_month": "2013-04-01",
+    "value": 4
+  },
+  {
+    "transactions": "230394",
+    "fee_avg": "5418767.72622985",
+    "block_timestamp_month": "2013-05-01",
+    "value": 3.4
+  },
+  {
+    "transactions": "151849",
+    "fee_avg": "4001837.575091044",
+    "block_timestamp_month": "2013-06-01",
+    "value": 2.7
+  },
+  {
+    "transactions": "143579",
+    "fee_avg": "1502326.880929662",
+    "block_timestamp_month": "2013-07-01",
+    "value": 2.7
+  },
+  {
+    "transactions": "137318",
+    "fee_avg": "1199458.302327444",
+    "block_timestamp_month": "2013-08-01",
+    "value": 2.6
+  },
+  {
+    "transactions": "108007",
+    "fee_avg": "1100160.206606979",
+    "block_timestamp_month": "2013-09-01",
+    "value": 2.53
+  },
+  {
+    "transactions": "112523",
+    "fee_avg": "1472730.059809994",
+    "block_timestamp_month": "2013-10-01",
+    "value": 2.1
+  },
+  {
+    "transactions": "261703",
+    "fee_avg": "1464036.656163666",
+    "block_timestamp_month": "2013-11-01",
+    "value": 25
+  },
+  {
+    "transactions": "389312",
+    "fee_avg": "906264.569209272",
+    "block_timestamp_month": "2013-12-01",
+    "value": 23
+  },
+  {
+    "transactions": "367154",
+    "fee_avg": "248410.470595445",
+    "block_timestamp_month": "2014-01-01",
+    "value": 25
+  },
+  {
+    "transactions": "323344",
+    "fee_avg": "189747.222419467",
+    "block_timestamp_month": "2014-02-01",
+    "value": 16.5
+  },
+  {
+    "transactions": "367690",
+    "fee_avg": "191025.806897114",
+    "block_timestamp_month": "2014-03-01",
+    "value": 17.5
+  },
+  {
+    "transactions": "267509",
+    "fee_avg": "130602.84964618",
+    "block_timestamp_month": "2014-04-01",
+    "value": 10.9
+  },
+  {
+    "transactions": "213585",
+    "fee_avg": "118935.665121614",
+    "block_timestamp_month": "2014-05-01",
+    "value": 10.3
+  },
+  {
+    "transactions": "162419",
+    "fee_avg": "143768.310979627",
+    "block_timestamp_month": "2014-06-01",
+    "value": 11.4
+  },
+  {
+    "transactions": "187301",
+    "fee_avg": "253390.505864891",
+    "block_timestamp_month": "2014-07-01",
+    "value": 7.2
+  },
+  {
+    "transactions": "169266",
+    "fee_avg": "133400.164445311",
+    "block_timestamp_month": "2014-08-01",
+    "value": 4.6
+  },
+  {
+    "transactions": "134419",
+    "fee_avg": "123649.613640929",
+    "block_timestamp_month": "2014-09-01",
+    "value": 3.8
+  },
+  {
+    "transactions": "111330",
+    "fee_avg": "134225.271624899",
+    "block_timestamp_month": "2014-10-01",
+    "value": 3.5
+  },
+  {
+    "transactions": "117256",
+    "fee_avg": "108772.760890701",
+    "block_timestamp_month": "2014-11-01",
+    "value": 2.9
+  },
+  {
+    "transactions": "120039",
+    "fee_avg": "250915.238697423",
+    "block_timestamp_month": "2014-12-01",
+    "value": 1.6
+  },
+  {
+    "transactions": "176489",
+    "fee_avg": "122667.192442588",
+    "block_timestamp_month": "2015-01-01",
+    "value": 1.7
+  },
+  {
+    "transactions": "206918",
+    "fee_avg": "110627.190147788",
+    "block_timestamp_month": "2015-02-01",
+    "value": 1.8
+  },
+  {
+    "transactions": "154550",
+    "fee_avg": "136911.39366548",
+    "block_timestamp_month": "2015-03-01",
+    "value": 2
+  },
+  {
+    "transactions": "134950",
+    "fee_avg": "136178.797525009",
+    "block_timestamp_month": "2015-04-01",
+    "value": 1.4
+  },
+  {
+    "transactions": "120370",
+    "fee_avg": "155281.566985129",
+    "block_timestamp_month": "2015-05-01",
+    "value": 1.45
+  },
+  {
+    "transactions": "181567",
+    "fee_avg": "132530.564116827",
+    "block_timestamp_month": "2015-06-01",
+    "value": 1.86
+  },
+  {
+    "transactions": "179991",
+    "fee_avg": "1021478.76302704",
+    "block_timestamp_month": "2015-07-01",
+    "value": 5.5
+  },
+  {
+    "transactions": "123711",
+    "fee_avg": "1456993.023724649",
+    "block_timestamp_month": "2015-08-01",
+    "value": 4.2
+  },
+  {
+    "transactions": "114591",
+    "fee_avg": "909918.020568806",
+    "block_timestamp_month": "2015-09-01",
+    "value": 2.9
+  },
+  {
+    "transactions": "173293",
+    "fee_avg": "431893.78348231",
+    "block_timestamp_month": "2015-10-01",
+    "value": 3
+  },
+  {
+    "transactions": "201013",
+    "fee_avg": "606707.789182789",
+    "block_timestamp_month": "2015-11-01",
+    "value": 3.8
+  },
+  {
+    "transactions": "190959",
+    "fee_avg": "1533456.251755612",
+    "block_timestamp_month": "2015-12-01",
+    "value": 3.4
+  },
+  {
+    "transactions": "170137",
+    "fee_avg": "2257370.517947301",
+    "block_timestamp_month": "2016-01-01",
+    "value": 3.2
+  },
+  {
+    "transactions": "132957",
+    "fee_avg": "1334885.622118429",
+    "block_timestamp_month": "2016-02-01",
+    "value": 3.3
+  },
+  {
+    "transactions": "154637",
+    "fee_avg": "691017.18861592",
+    "block_timestamp_month": "2016-03-01",
+    "value": 3.2
+  },
+  {
+    "transactions": "167491",
+    "fee_avg": "365445.753055388",
+    "block_timestamp_month": "2016-04-01",
+    "value": 3.25
+  },
+  {
+    "transactions": "218598",
+    "fee_avg": "304630.180029095",
+    "block_timestamp_month": "2016-05-01",
+    "value": 3.9
+  },
+  {
+    "transactions": "168157",
+    "fee_avg": "398210.162699144",
+    "block_timestamp_month": "2016-06-01",
+    "value": 5.1
+  },
+  {
+    "transactions": "131926",
+    "fee_avg": "447576.832815366",
+    "block_timestamp_month": "2016-07-01",
+    "value": 4
+  },
+  {
+    "transactions": "128190",
+    "fee_avg": "448065.439940713",
+    "block_timestamp_month": "2016-08-01",
+    "value": 3.8
+  },
+  {
+    "transactions": "108851",
+    "fee_avg": "449344.202129516",
+    "block_timestamp_month": "2016-09-01",
+    "value": 4
+  },
+  {
+    "transactions": "130308",
+    "fee_avg": "373367.483991773",
+    "block_timestamp_month": "2016-10-01",
+    "value": 3.9
+  },
+  {
+    "transactions": "120498",
+    "fee_avg": "460067.218858404",
+    "block_timestamp_month": "2016-11-01",
+    "value": 3.9
+  },
+  {
+    "transactions": "120672",
+    "fee_avg": "579678.920967582",
+    "block_timestamp_month": "2016-12-01",
+    "value": 4.5
+  },
+  {
+    "transactions": "129021",
+    "fee_avg": "750271.929569605",
+    "block_timestamp_month": "2017-01-01",
+    "value": 3.9
+  },
+  {
+    "transactions": "96860",
+    "fee_avg": "633100.898750774",
+    "block_timestamp_month": "2017-02-01",
+    "value": 3.8
+  },
+  {
+    "transactions": "127160",
+    "fee_avg": "338602.231456433",
+    "block_timestamp_month": "2017-03-01",
+    "value": 4.2
+  },
+  {
+    "transactions": "214070",
+    "fee_avg": "290419.45592096",
+    "block_timestamp_month": "2017-04-01",
+    "value": 10
+  },
+  {
+    "transactions": "387529",
+    "fee_avg": "314795.295048887",
+    "block_timestamp_month": "2017-05-01",
+    "value": 27
+  },
+  {
+    "transactions": "517970",
+    "fee_avg": "537339.217329189",
+    "block_timestamp_month": "2017-06-01",
+    "value": 47
+  },
+  {
+    "transactions": "578663",
+    "fee_avg": "337970.250952627",
+    "block_timestamp_month": "2017-07-01",
+    "value": 42
+  },
+  {
+    "transactions": "684982",
+    "fee_avg": "329912.641428534",
+    "block_timestamp_month": "2017-08-01",
+    "value": 45
+  },
+  {
+    "transactions": "798184",
+    "fee_avg": "236802.048243262",
+    "block_timestamp_month": "2017-09-01",
+    "value": 62
+  },
+  {
+    "transactions": "752046",
+    "fee_avg": "146722.676445324",
+    "block_timestamp_month": "2017-10-01",
+    "value": 63
+  },
+  {
+    "transactions": "910348",
+    "fee_avg": "160509.240878214",
+    "block_timestamp_month": "2017-11-01",
+    "value": 68
+  },
+  {
+    "transactions": "3115242",
+    "fee_avg": "241793.208746544",
+    "block_timestamp_month": "2017-12-01",
+    "value": 300
+  },
+  {
+    "transactions": "3167436",
+    "fee_avg": "147932.772145672",
+    "block_timestamp_month": "2018-01-01",
+    "value": 190
+  },
+  {
+    "transactions": "1442801",
+    "fee_avg": "154330.65686051",
+    "block_timestamp_month": "2018-02-01",
+    "value": 230
+  },
+  {
+    "transactions": "1015992",
+    "fee_avg": "127810.706380562",
+    "block_timestamp_month": "2018-03-01",
+    "value": 170
+  },
+  {
+    "transactions": "864774",
+    "fee_avg": "120895.289548483",
+    "block_timestamp_month": "2018-04-01",
+    "value": 145
+  },
+  {
+    "transactions": "941174",
+    "fee_avg": "113865.153087527",
+    "block_timestamp_month": "2018-05-01",
+    "value": 130
+  },
+  {
+    "transactions": "737490",
+    "fee_avg": "105583.522699969",
+    "block_timestamp_month": "2018-06-01",
+    "value": 89
+  },
+  {
+    "transactions": "755881",
+    "fee_avg": "103889.990708855",
+    "block_timestamp_month": "2018-07-01",
+    "value": 85
+  },
+  {
+    "transactions": "824077",
+    "fee_avg": "94098.211072509",
+    "block_timestamp_month": "2018-08-01",
+    "value": 57
+  },
+  {
+    "transactions": "890601",
+    "fee_avg": "79528.31841644",
+    "block_timestamp_month": "2018-09-01",
+    "value": 58
+  },
+  {
+    "transactions": "781241",
+    "fee_avg": "86276.537684274",
+    "block_timestamp_month": "2018-10-01",
+    "value": 51
+  },
+  {
+    "transactions": "767294",
+    "fee_avg": "68036.082407786",
+    "block_timestamp_month": "2018-11-01",
+    "value": 38
+  },
+  {
+    "transactions": "732205",
+    "fee_avg": "66507.8049986",
+    "block_timestamp_month": "2018-12-01",
+    "value": 33
+  },
+  {
+    "transactions": "719827",
+    "fee_avg": "64151.044100874",
+    "block_timestamp_month": "2019-01-01",
+    "value": 33
+  },
+  {
+    "transactions": "694984",
+    "fee_avg": "64149.113106201",
+    "block_timestamp_month": "2019-02-01",
+    "value": 42
+  },
+  {
+    "transactions": "757048",
+    "fee_avg": "67412.993112722",
+    "block_timestamp_month": "2019-03-01",
+    "value": 60
+  },
+  {
+    "transactions": "762673",
+    "fee_avg": "63799.233688619",
+    "block_timestamp_month": "2019-04-01",
+    "value": 83
+  },
+  {
+    "transactions": "865348",
+    "fee_avg": "86903.033081489",
+    "block_timestamp_month": "2019-05-01",
+    "value": 96
+  },
+  {
+    "transactions": "1002425",
+    "fee_avg": "59918.695473477",
+    "block_timestamp_month": "2019-06-01",
+    "value": 135
+  },
+  {
+    "transactions": "932449",
+    "fee_avg": "55504.051846267",
+    "block_timestamp_month": "2019-07-01",
+    "value": 97
+  },
+  {
+    "transactions": "826009",
+    "fee_avg": "59090.057512691",
+    "block_timestamp_month": "2019-08-01",
+    "value": 67
+  },
+  {
+    "transactions": "891696",
+    "fee_avg": "42562.906927922",
+    "block_timestamp_month": "2019-09-01",
+    "value": 70
+  },
+  {
+    "transactions": "704883",
+    "fee_avg": "43597.318631603",
+    "block_timestamp_month": "2019-10-01",
+    "value": 57
+  },
+  {
+    "transactions": "742427",
+    "fee_avg": "40022.776550422",
+    "block_timestamp_month": "2019-11-01",
+    "value": 60
+  },
+  {
+    "transactions": "695810",
+    "fee_avg": "44940.681221885",
+    "block_timestamp_month": "2019-12-01",
+    "value": 42
+  },
+  {
+    "transactions": "297235",
+    "fee_avg": "42760.110296567",
+    "block_timestamp_month": "2020-01-01",
+    "value": 46
+  }
+]

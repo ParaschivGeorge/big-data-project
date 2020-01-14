@@ -1,3 +1,14 @@
-<graph [nodes]="nodes" [links]="links"></graph>
+<div>
+  <mat-toolbar color="primary">
+    <div>
+      <a mat-button routerLink="/bitcoin">Bitcoin</a>
+      <a mat-button routerLink="/litecoin">Litecoin</a>
+    </div>
 
-<router-outlet></router-outlet>
+  </mat-toolbar>
+  <mat-sidenav-container class="example-container content">
+    <mat-sidenav-content>
+      <router-outlet></router-outlet>
+    </mat-sidenav-content>
+  </mat-sidenav-container>
+</div>
